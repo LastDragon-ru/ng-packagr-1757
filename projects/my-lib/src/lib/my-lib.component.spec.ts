@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { MyLibComponent } from './my-lib.component';
+import { MyLibComponent } from 'projects/my-lib/src/lib/my-lib.component';
 
 describe('MyLibComponent', () => {
   let component: MyLibComponent;

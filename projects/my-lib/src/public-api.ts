@@ -2,6 +2,6 @@
  * Public API Surface of my-lib
  */
 
-export * from './lib/my-lib.service';
-export * from './lib/my-lib.component';
-export * from './lib/my-lib.module';
+export * from 'projects/my-lib/src/lib/my-lib.service';
+export * from 'projects/my-lib/src/lib/my-lib.component';
+export * from 'projects/my-lib/src/lib/my-lib.module';
